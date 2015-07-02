@@ -6,7 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.FrameLayout;
 
-import com.github.wzq.utils.WheelHelper;
+import com.github.wzq.wheel.utils.WheelHelper;
 
 
 public class MainActivity extends AppCompatActivity {

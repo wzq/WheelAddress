@@ -17,7 +17,7 @@
  *  limitations under the License.
  */
 
-package com.github.wzq;
+package com.github.wzq.wheel;
 
 import android.content.Context;
 import android.os.Handler;

@@ -1,4 +1,4 @@
-package com.github.wzq.models;
+package com.github.wzq.wheel.models;
 
 /**
  * Created by wzq on 15/4/23.

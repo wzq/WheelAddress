@@ -14,7 +14,7 @@
  *  limitations under the License.
  */
 
-package com.github.wzq.adapters;
+package com.github.wzq.wheel.adapters;
 
 import java.util.LinkedList;
 import java.util.List;

@@ -14,7 +14,7 @@
  *  limitations under the License.
  */
 
-package com.github.wzq;
+package com.github.wzq.wheel;
 
 /**
  * Wheel scrolled listener interface.

@@ -1,8 +1,8 @@
-package com.github.wzq.utils;
+package com.github.wzq.wheel.utils;
 
-import com.github.wzq.models.CityModel;
-import com.github.wzq.models.DistrictModel;
-import com.github.wzq.models.ProvinceModel;
+import com.github.wzq.wheel.models.CityModel;
+import com.github.wzq.wheel.models.DistrictModel;
+import com.github.wzq.wheel.models.ProvinceModel;
 
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;

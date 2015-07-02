@@ -1,4 +1,4 @@
-package com.github.wzq.models;
+package com.github.wzq.wheel.models;
 
 import java.io.Serializable;
 

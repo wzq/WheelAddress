@@ -1,18 +1,18 @@
-package com.github.wzq.utils;
+package com.github.wzq.wheel.utils;
 
 import android.content.Context;
 import android.content.res.AssetManager;
 import android.view.LayoutInflater;
 import android.view.View;
 
-import com.github.wzq.OnWheelChangedListener;
+import com.github.wzq.wheel.OnWheelChangedListener;
 import com.github.wzq.R;
-import com.github.wzq.WheelView;
-import com.github.wzq.adapters.ArrayWheelAdapter;
-import com.github.wzq.models.Address;
-import com.github.wzq.models.CityModel;
-import com.github.wzq.models.DistrictModel;
-import com.github.wzq.models.ProvinceModel;
+import com.github.wzq.wheel.WheelView;
+import com.github.wzq.wheel.adapters.ArrayWheelAdapter;
+import com.github.wzq.wheel.models.Address;
+import com.github.wzq.wheel.models.CityModel;
+import com.github.wzq.wheel.models.DistrictModel;
+import com.github.wzq.wheel.models.ProvinceModel;
 
 import java.io.InputStream;
 import java.util.Arrays;

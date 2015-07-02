@@ -17,7 +17,7 @@
  *  limitations under the License.
  */
 
-package com.github.wzq;
+package com.github.wzq.wheel;
 
 import android.content.Context;
 import android.database.DataSetObserver;
@@ -33,7 +33,7 @@ import android.view.ViewGroup.LayoutParams;
 import android.view.animation.Interpolator;
 import android.widget.LinearLayout;
 
-import com.github.wzq.adapters.WheelViewAdapter;
+import com.github.wzq.wheel.adapters.WheelViewAdapter;
 
 import java.util.LinkedList;
 import java.util.List;
