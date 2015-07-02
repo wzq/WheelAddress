@@ -1,5 +1,8 @@
 package com.github.wzq.models;
 
+/**
+ * Created by wzq on 15/4/23.
+ */
 public class DistrictModel {
 	private String name;
 	private String zipcode;

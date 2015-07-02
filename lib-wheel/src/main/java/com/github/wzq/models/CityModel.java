@@ -2,6 +2,9 @@ package com.github.wzq.models;
 
 import java.util.List;
 
+/**
+ * Created by wzq on 15/4/23.
+ */
 public class CityModel {
 	private String name;
 	private List<DistrictModel> districtList;
