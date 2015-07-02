@@ -47,6 +47,12 @@ public class WheelHelper implements OnWheelChangedListener {
 
     private int wheels[] = {R.id.id_province, R.id.id_city, R.id.id_district};
 
+    /**
+     * @param context
+     * @param view 视图
+     * @param data 数据文件名
+     * @param wheels 子视图ID
+     */
     public WheelHelper(Context context, View view, String data, int[] wheels) {
         this.context = context;
         this.view = view;
@@ -57,7 +63,10 @@ public class WheelHelper implements OnWheelChangedListener {
         setUpData();
     }
 
-
+    /**
+     * @param context
+     * @param data 数据文件名 只支持位于ASSET下的XM文件
+     */
     public WheelHelper(Context context, String data) {
         this.context = context;
         this.view = LayoutInflater.from(context).inflate(R.layout.view_address, null);
@@ -76,6 +85,10 @@ public class WheelHelper implements OnWheelChangedListener {
         return address;
     }
 
+    /**
+     * @param type
+     * @param value
+     */
     public void setCurrent(int type, String value){
         switch (type){
             case TYPE_PROVINCE:
