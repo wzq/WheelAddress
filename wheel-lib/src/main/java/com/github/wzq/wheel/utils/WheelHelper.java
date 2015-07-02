@@ -6,7 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 
 import com.github.wzq.wheel.OnWheelChangedListener;
-import com.github.wzq.R;
+import com.github.wzq.wheel.R;
 import com.github.wzq.wheel.WheelView;
 import com.github.wzq.wheel.adapters.ArrayWheelAdapter;
 import com.github.wzq.wheel.models.Address;
