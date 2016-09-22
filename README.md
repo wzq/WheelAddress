@@ -1,8 +1,6 @@
 # WheelAddress
 
-base on android wheel
-
-show the address info
+base on android wheel 
 
 ![img](screenshot/show.gif)
 
